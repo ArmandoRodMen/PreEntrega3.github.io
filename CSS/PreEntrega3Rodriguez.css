@@ -1,3 +1,14 @@
+/*
+Armando Rodríguez
+PreEntrega3Rodriguez.js
+
+Página de tienda en línea que:
+Agrega producto selccionado a un carrito
+Hacer un arreglo con esos productos
+Ver de manera dinámica las unidades, precio por las unidades y total
+Alertas si hay productos duplicados, sin productos o total de productos
+Guardar en almacenamiento local y llamar cada que se refresque la página
+*/
 
 * {
     box-sizing: border-box;
@@ -135,4 +146,8 @@ body{
             30% auto;
     }
 }
+
+/*
+Fin de código
+*/
 
